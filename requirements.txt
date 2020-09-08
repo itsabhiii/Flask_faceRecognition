@@ -1,0 +1,8 @@
+cmake
+dlib
+Flask      
+pillow
+gunicorn
+--no-dependencies face_recognition
+numpy
+opencv-python
